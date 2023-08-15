@@ -22,9 +22,14 @@ highlight_code = false
 juice_logo_name = "GCF Peel"
 juice_logo_path = "logo/gcfpeel_logo.svg"
 juice_extra_menu = [
-    { title = "Github", link = "https://github.com/huhu/juice"}
+    { title = "Worship", link = "https://gcfpeel.github.io/worship/"},
+	{ title = "Ministries", link = "https://gcfpeel.github.io/ministries/"},
+	{ title = "Events", link = "https://gcfpeel.github.io/events/"},
+	{ title = "Gallery", link = "https://gcfpeel.github.io/gallery/"},
+	{ title = "Donate", link = "https://gcfpeel.github.io/donate/"},
+	{ title = "About Us", link = "https://gcfpeel.github.io/about-us/"}
 ]
 juice_exclude_menu = [
     "exclude_from_nav"
 ]
-repository_url = "https://github.com/huhu/juice"
+repository_url = "https://gcfpeel.github.io/worship/"

@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+	.hero section {
+		padding: 0 2rem;
+	}
+	.hero-image {
+		display: none;
+	}
+}
+div.content {
+	display: inline-block;
+	max-width: 20%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

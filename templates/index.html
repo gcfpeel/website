@@ -4,11 +4,14 @@
 <link rel="stylesheet" href="{{ get_url(path="gcfpeel.css") }}">
 {% endblock head %}
 
+{% block nav %}
+{% endblock nav %}
+
 {% block hero %}
 <section class="text-center">
-	<h1 class="heading-text" style="font-size: 50px">
-		Know Christ and Make Him Known
-	</h1>
+<h1 class="heading-text" style="font-size: 50px">
+	Know Christ and Make Him Known
+</h1>
 </section>
 <img class="hero-image" style="width: 50%" src="{{ get_url(path="1235.jpg") }}">
 
@@ -17,18 +20,18 @@
 	Explore More ⇩
 </div>
 <style>
+.hero section {
+	padding: 0 5rem;
+}
+
+@media screen and (max-width: 768px) {
 	.hero section {
-		padding: 0 5rem;
+		padding: 0 2rem;
 	}
 
-	@media screen and (max-width: 768px) {
-		.hero section {
-			padding: 0 2rem;
-		}
-
-		.hero-image {
-			display: none
-		}
+	.hero-image {
+		display: none
 	}
+}
 </style>
 {% endblock hero %}
