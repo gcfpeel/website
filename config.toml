@@ -22,12 +22,7 @@ highlight_code = false
 juice_logo_name = "GCF Peel"
 juice_logo_path = "logo/gcfpeel_logo.svg"
 juice_extra_menu = [
-    { title = "Worship", link = "https://gcfpeel.github.io/worship/"},
-	{ title = "Ministries", link = "https://gcfpeel.github.io/ministries/"},
-	{ title = "Events", link = "https://gcfpeel.github.io/events/"},
-	{ title = "Gallery", link = "https://gcfpeel.github.io/gallery/"},
-	{ title = "Donate", link = "https://gcfpeel.github.io/donate/"},
-	{ title = "About Us", link = "https://gcfpeel.github.io/about-us/"}
+	{ title = "Sermons", link ="https://www.youtube.com/channel/UCPj5Bc-yhe5TD7W_EPXZ6TA"}
 ]
 juice_exclude_menu = [
     "exclude_from_nav"
