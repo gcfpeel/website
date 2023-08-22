@@ -35,3 +35,15 @@
 }
 </style>
 {% endblock hero %}
+
+{% block content %}
+	{{ section.content | safe }}
+{% endblock content %}
+
+{% block footer %}
+    <footer>
+        <small class="subtext">
+            © 2023 Greenhills Christian Fellowship Peel.<br> Member, <a href="https://www.baptist.ca/">Canadian Baptists of Ontario and Quebec</a>
+        </small>
+    </footer>
+{% endblock footer %}
