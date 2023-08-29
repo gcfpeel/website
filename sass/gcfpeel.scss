@@ -33,7 +33,21 @@ h3 {
 }
 div.content {
 	display: inline-block;
-	max-width: 20%;
+	max-width: 100%;
 	overflow: hidden;
 	text-overflow: ellipsis;
+}
+.iconlink {
+	color: #aaaaaa;
+	transition: color 0.5s;
+	text-decoration: none;
+}
+.iconlink:hover {
+	color: #dd1111;
+}
+footer {
+	text-align: center;
+}
+.content text {
+	flex: 1;
 }

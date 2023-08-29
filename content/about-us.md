@@ -1,12 +1,12 @@
 +++
 title="About Us"
 +++
-<style>
-	div.images img {
-		float: left;
-	}
-</style>
+# Our Story
+GCF-Peel was launched on March 23, 2008 at the Meadowvale Community Centre in Mississauga.  The second satellite outside of the Philippines, this church was planted by GCF-Toronto as part of its triple vision of reaching out to the community for Christ in the Greater Toronto Area.  It is presently meeting at the Meadowvale Village Hall in Mississauga (<a href="https://goo.gl/maps/NGx7597koVXXTnVE6">6970 Second Line W, Mississauga, ON L5W 1A1</a>).
 
+<div style="text-align:center;">
+{{ resize_image(path="our-story-1.png", width=450, height=450, op="fit", format="auto", quality=90) }}
+</div>
 
 # What We Believe
 
@@ -20,19 +20,19 @@ GCF is one church reaching influencers through satellites in strategic areas wor
 ## What We Believe
 
 ### The Bible
-The Bible is the inspired Word of God written without error, so it is our only sure source of knowledge about God and His plans, and is our absolute guide for doctrinal teaching and godly living (2 Timothy 3:16-17; 2 Peter 1: 20-21).
+The Bible is the inspired Word of God written without error, so it is our only sure source of knowledge about God and His plans, and is our absolute guide for doctrinal teaching and godly living (<a href="https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV">2 Timothy 3:16-17</a>; <a href="https://www.biblegateway.com/passage/?search=2+Peter+1%3A+20-21&version=NIV">2 Peter 1: 20-21</a>).
 
 ### God
-We worship and serve the only One True God who revealed Himself in the Bible as three persons sharing one indivisible essence in the mystery of the Trinity, God the Father, God the Son, and God the Holy Spirit (Deuteronomy 6:4; Matthew 28:19-20).
+We worship and serve the only One True God who revealed Himself in the Bible as three persons sharing one indivisible essence in the mystery of the Trinity, God the Father, God the Son, and God the Holy Spirit (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4&version=NIV">Deuteronomy 6:4</a>; <a href="https://www.biblegateway.com/passage/?search=Matthew+28%3A19-20&version=NIV">Matthew 28:19-20</a>).
 
 ### Jesus Christ
-Jesus Christ is the unique Son of God, being fully God and fully man. He was conceived of the Holy Spirit, born of the virgin Mary, lived a sinless life but suffered and died in the place of sinful man, was buried and resurrected ascended bodily into heaven, and is preparing to return bodily in glory to earth a second time (John 1:1-14; 14:1-3; I Corinthians 15:3-6; Philippians 2:5-11).
+Jesus Christ is the unique Son of God, being fully God and fully man. He was conceived of the Holy Spirit, born of the virgin Mary, lived a sinless life but suffered and died in the place of sinful man, was buried and resurrected ascended bodily into heaven, and is preparing to return bodily in glory to earth a second time (<a href="https://www.biblegateway.com/passage/?search=John+1%3A1-14&version=NIV">John 1:1-14</a>; <a href="https://www.biblegateway.com/passage/?search=John+14%3A1-3&version=NIV">14:1-3</a>; <a href="https://www.biblegateway.com/passage/?search=I+Corinthians+15%3A3-6&version=NIV">I Corinthians 15:3-6</a>; <a href="https://www.biblegateway.com/passage/?search=Philippians+2%3A5-11&version=NIV">Philippians 2:5-11</a>).
 
 ### The Holy Spirit
-The Holy Spirit is God who is actively at work in the world. He dwells permanently in every Christian, helps us to pray, equips and empowers us to serve God, strengthens and molds us to be more like Christ, and protects us to guarantee our eternal life (Acts 5:3-4; Romans 8:14-16,26).
+The Holy Spirit is God who is actively at work in the world. He dwells permanently in every Christian, helps us to pray, equips and empowers us to serve God, strengthens and molds us to be more like Christ, and protects us to guarantee our eternal life (<a href="https://www.biblegateway.com/passage/?search=Acts+5%3A3-4&version=NIV">Acts 5:3-4</a>; <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A14-16%2C26&version=NIV">Romans 8:14-16,26</a>).
 
 ### Angels
-Angels are the innumerable and unseen creatures who serve the causes of God and His people. Satan and demons are fallen angels who promote wickedness and oppose God’s purposes, doomed and awaiting their final judgment (Isaiah 14:12-17; Hebrews 1:6-14).
+Angels are the innumerable and unseen creatures who serve the causes of God and His people. Satan and demons are fallen angels who promote wickedness and oppose God’s purposes, doomed and awaiting their final judgment (<a href="https://www.biblegateway.com/passage/?search=Isaiah+14%3A12-17%3B+Hebrews+1%3A6-14&version=NIV">Isaiah 14:12-17; Hebrews 1:6-14</a>).
 
 ### Man
 God created man, male and female, in His image. Man was originally sinless but through Adam, all mankind sinned, became condemned, separated from God, and rendered totally unable to gain God’s favor of forgiveness and eternal life (Genesis 1:26-27; Romans 5:12-14).
