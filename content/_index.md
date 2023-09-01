@@ -14,7 +14,7 @@ title="Home"
 
 <div class="images">
 	<a href="/about-us">
-		{{ resize_image(path="IMG_2480.jpeg", width=1920, height=1080, op="fit", format="auto", quality=90) }}
+		{{ resize_image(path="IMG_2480.JPEG", width=1920, height=1080, op="fit", format="auto", quality=90) }}
 	</a>
 </div>
 
