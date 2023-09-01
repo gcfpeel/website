@@ -51,3 +51,23 @@ footer {
 .content text {
 	flex: 1;
 }
+
+.hero {
+  background: linear-gradient(to bottom, var(--header-color), 80%,var(--secondary-color));
+}
+
+
+.hero .heading-text,
+header,
+.logo,
+header nav .subtitle-text {
+  color: var(--secondary-color);
+}
+
+header {
+  background-color: var(--header-color);
+}
+
+.nav-item:hover {
+  color: unset;
+}
