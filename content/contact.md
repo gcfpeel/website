@@ -23,7 +23,7 @@ title="Contact Us"
 	}
 </style>
 
-**Ask Jed to fill in more of P. Jon's details**
+**Possibly fill in more info**
 (Full name,  contact info, better photo)
 
 ## Pastor
@@ -32,9 +32,10 @@ title="Contact Us"
 <a href="https://www.linkedin.com/in/jonathan-bernardo-46a92113/">**Jonathan Bernardo**</a>
 
 <a href="tel:+1-647-869-0820">+1 647-869-0820</a>
-
+***
 ## Offerings
 Interac e-Transfer to `donation@gcfpeel.ca`
+***
 ## Contact us
 <div class="contact-form">
 

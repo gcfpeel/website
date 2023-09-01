@@ -13,10 +13,9 @@ title="Home"
 ## Welcome
 
 <div class="images">
-{{ resize_image(path="IMG_2480.jpeg", width=1920, height=1080, op="fit", format="auto", quality=90) }}
-{{ resize_image(path="IMG_2480.jpeg", width=1920, height=1080, op="fit", format="auto", quality=90) }}
-{{ resize_image(path="IMG_2480.jpeg", width=1920, height=1080, op="fit", format="auto", quality=90) }}
-
+	<a href="/about-us">
+		{{ resize_image(path="IMG_2480.jpeg", width=1920, height=1080, op="fit", format="auto", quality=90) }}
+	</a>
 </div>
 
 <div class="text">
@@ -31,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a risus augue. Sed s
 Proin finibus sapien eu neque scelerisque vehicula sodales pharetra eros. Aliquam orci diam, ornare vitae elementum in, viverra vel ipsum. Morbi sodales et diam in hendrerit. Phasellus ac sem ac libero molestie posuere. Nulla iaculis nibh nec eros aliquet rutrum. Aliquam id vehicula turpis. Cras auctor quis risus sed finibus. Vestibulum nulla tellus, dictum vel diam sit amet, finibus maximus est. Fusce felis sapien, tincidunt id mauris ac, mattis lobortis justo. 
 
 ### Join us!
-We meet up every Sunday at 10AM at the Meadowvale Village Hall (6970 Second Line W, Mississauga, ON L5W 1A1)
+We meet up every **Sunday, 10AM** at the **Meadowvale Village Hall** (6970 Second Line W, Mississauga, ON L5W 1A1)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2888.046553396165!2d-79.72724219999999!3d43.62639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b400fa110144b%3A0x27257da99be35057!2sMeadowvale%20Village%20Hall!5e0!3m2!1sen!2sca!4v1693264218268!5m2!1sen!2sca" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
