@@ -32,10 +32,10 @@ title="Contact Us"
 <a href="https://www.linkedin.com/in/jonathan-bernardo-46a92113/">**Jonathan Bernardo**</a>
 
 <a href="tel:+1-647-869-0820">+1 647-869-0820</a>
-***
+
 ## Offerings
 Interac e-Transfer to `donation@gcfpeel.ca`
-***
+
 ## Contact us
 <div class="contact-form">
 

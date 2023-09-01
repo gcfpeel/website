@@ -10,7 +10,7 @@ GCF-Peel was launched on March 23, 2008 at the Meadowvale Community Centre in Mi
 GCF-Peel Launch (March 23, 2008)
 </div>
 
-***
+
 # What We Believe
 
 ## Mission
@@ -72,11 +72,11 @@ The proposed 10 key attributes of the GCF Peel ethos are as follows:
 - L = Loving relationships
 - L = Life-enriching preaching
 - S = Sustainable spirituality
-***
+
 ## Affiliation
 
 GCF-Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40]
-***
+
 # Newcomers
 ## Not sure where to start?
 GCF-Peel serves the community of the Peel region in the Greater Toronto Area (GTA) specifically in Mississauga, Brampton and Caledon area through worship, children and youth programs, and a network of growth groups meeting in local homes.
