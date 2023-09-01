@@ -18,17 +18,6 @@ title="Home"
 	</a>
 </div>
 
-<div class="text">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a risus augue. Sed sagittis nec nunc nec porttitor. Fusce ultrices hendrerit ante eu sollicitudin. Nullam eu faucibus eros. Proin nec imperdiet justo. Nam lacinia facilisis enim, gravida iaculis nisl viverra non. Vivamus felis metus, pretium egestas tellus vel, mollis finibus neque. Suspendisse vel est rhoncus, tincidunt metus a, blandit dolor. Aliquam a leo euismod, efficitur turpis sit amet, accumsan metus. Etiam at iaculis neque. Nam consectetur pulvinar imperdiet. Praesent fermentum ac ligula vel semper. Aenean eu magna id nunc mattis venenatis. Etiam sodales, diam ac consectetur euismod, lorem magna semper urna, gravida commodo metus elit nec ex.
-
-Proin finibus sapien eu neque scelerisque vehicula sodales pharetra eros. Aliquam orci diam, ornare vitae elementum in, viverra vel ipsum. Morbi sodales et diam in hendrerit. Phasellus ac sem ac libero molestie posuere. Nulla iaculis nibh nec eros aliquet rutrum. Aliquam id vehicula turpis. Cras auctor quis risus sed finibus. Vestibulum nulla tellus, dictum vel diam sit amet, finibus maximus est. Fusce felis sapien, tincidunt id mauris ac, mattis lobortis justo. 
-</div>
-
-### Origins
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a risus augue. Sed sagittis nec nunc nec porttitor. Fusce ultrices hendrerit ante eu sollicitudin. Nullam eu faucibus eros. Proin nec imperdiet justo. Nam lacinia facilisis enim, gravida iaculis nisl viverra non. Vivamus felis metus, pretium egestas tellus vel, mollis finibus neque. Suspendisse vel est rhoncus, tincidunt metus a, blandit dolor. Aliquam a leo euismod, efficitur turpis sit amet, accumsan metus. Etiam at iaculis neque. Nam consectetur pulvinar imperdiet. Praesent fermentum ac ligula vel semper. Aenean eu magna id nunc mattis venenatis. Etiam sodales, diam ac consectetur euismod, lorem magna semper urna, gravida commodo metus elit nec ex.
-
-Proin finibus sapien eu neque scelerisque vehicula sodales pharetra eros. Aliquam orci diam, ornare vitae elementum in, viverra vel ipsum. Morbi sodales et diam in hendrerit. Phasellus ac sem ac libero molestie posuere. Nulla iaculis nibh nec eros aliquet rutrum. Aliquam id vehicula turpis. Cras auctor quis risus sed finibus. Vestibulum nulla tellus, dictum vel diam sit amet, finibus maximus est. Fusce felis sapien, tincidunt id mauris ac, mattis lobortis justo. 
-
 ### Join us!
 We meet up every **Sunday, 10AM** at the **Meadowvale Village Hall** (6970 Second Line W, Mississauga, ON L5W 1A1)
 
