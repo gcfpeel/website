@@ -1,13 +1,24 @@
 +++
 title="About Us"
 +++
+# Newcomers
+## Not sure where to start?
+GCF Peel serves the community of the Peel region in the Greater Toronto Area (GTA) specifically in Mississauga, Brampton and Caledon area through worship, children and youth programs, and a network of growth groups meeting in local homes.
+
+Whether you are young or old, from a different culture, a lifelong believer or just exploring the Christian faith, we warmly invite you to come visit us.
+If you are seeking to get closer to God, we'd love you to join us this Sunday, 10:00 am at the Meadowvale Village Hall in Mississauga ([6970 Second Line W, Mississauga, ON L5W 1A1][1]).
+
+Meanwhile, feel free to browse our website, and discover who we are and how you can fit in to our faith community.
+
+You matter to God and us!
+
 # Our Story
-GCF-Peel was launched on March 23, 2008 at the Meadowvale Community Centre in Mississauga.  The second satellite outside of the Philippines, this church was planted by GCF-Toronto as part of its triple vision of reaching out to the community for Christ in the Greater Toronto Area.  It is presently meeting at the Meadowvale Village Hall in Mississauga ([6970 Second Line W, Mississauga, ON L5W 1A1][1]).
+GCF Peel was launched on March 23, 2008 at the Meadowvale Community Centre in Mississauga.  The second satellite outside of the Philippines, this church was planted by GCF Toronto as part of its triple vision of reaching out to the community for Christ in the Greater Toronto Area.  We currently meet at the [Meadowvale Village Hall][1] in Mississauga.
 
 <div style="text-align:center;">
 {{ resize_image(path="our-story-1.png", width=450, height=450, op="fit", format="auto", quality=90) }}
 
-GCF-Peel Launch (March 23, 2008)
+GCF Peel Launch (March 23, 2008)
 </div>
 
 
@@ -53,7 +64,7 @@ We uphold the separation of the church and state and we affirm the Christian dut
 
 ### Marriage
 God instituted marriage ([Genesis 2:23-24][28]; [Matthew 19:4-6][29]) and the family ([Ephesians 6:1-2][30]; [Colossians 3:20-21][31]) as the basis elements on which society is built.
-Marriage is the union of one man and one woman to the exclusion of others ([I Corinthians 7:10][32], [39][33]; [I Timothy 3:12a][34]; [Titus 1:6a][35]) so that the husband and the wife can share love ([Ephesians 5:22-29][36], [33][37]) and intimacy for personal fulfillment ([1 Corinthians 7:2-5][38]) and for the establishment of families ([Genesis 1:28][39]; [1 Timothy 3:12b][34]; [Titus 1:6b][35])
+Marriage is the union of one man and one woman to the exclusion of others ([I Corinthians 7:10][32], [39][33]; [I Timothy 3:12a][34]; [Titus 1:6a][35]) so that the husband and the wife can share love ([Ephesians 5:22-29][36], [33][37]) and intimacy for personal fulfillment ([1 Corinthians 7:2-5][38]) and for the establishment of families ([Genesis 1:28][39]; [1 Timothy 3:12b][34]; [Titus 1:6b][35]).
 
 ## Ethos
 The GCF ethos is the characteristic spirit of the community of believers in GCF Peel, as manifested by its aspiration to know Christ and make Him known through excellence in life and service by God's enabling grace and for His glory.
@@ -75,18 +86,7 @@ The proposed 10 key attributes of the GCF Peel ethos are as follows:
 
 ## Affiliation
 
-GCF-Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40]
-
-# Newcomers
-## Not sure where to start?
-GCF-Peel serves the community of the Peel region in the Greater Toronto Area (GTA) specifically in Mississauga, Brampton and Caledon area through worship, children and youth programs, and a network of growth groups meeting in local homes.
-
-Whether you are young or old, from a different culture, a lifelong believer or just exploring the Christian faith, we warmly invite you to come visit us.
-If you are seeking to get closer to God, we'd love you to join us this Sunday, 10:00 am at the Meadowvale Village Hall in Mississauga ([6970 Second Line W, Mississauga, ON L5W 1A1][1]).
-
-Meanwhile, feel free to browse our website, and discover who we are and how you can fit in to our faith community.
-
-You matter to God and us!
+GCF Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40].
 
 [1]:https://goo.gl/maps/NGx7597koVXXTnVE6
 [2]:https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV

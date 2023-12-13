@@ -56,6 +56,9 @@ footer {
   background: linear-gradient(to bottom, var(--header-color), 80%,var(--secondary-color));
 }
 
+.hero-logo {
+	max-height: 4em;
+}
 
 .hero .heading-text,
 header,
