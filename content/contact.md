@@ -29,7 +29,7 @@ title="Contact Us"
 ## Pastor
 {{ resize_image(path="1637799745949.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
 
-<a href="https://www.linkedin.com/in/jonathan-bernardo-46a92113/">**Jonathan Bernardo**</a>
+**Jonathan Bernardo**
 
 <a href="tel:+1-647-869-0820">+1 647-869-0820</a>
 
