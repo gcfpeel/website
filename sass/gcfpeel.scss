@@ -53,9 +53,9 @@ footer {
 }
 
 .hero {
-  background: linear-gradient(to bottom, var(--header-color), 80%,var(--secondary-color));
   height: unset;
   padding: 0px 40px 30px;
+  background: transparent;
 }
 
 .hero-logo {
@@ -70,7 +70,7 @@ header nav .subtitle-text {
 }
 
 header {
-  background-color: var(--header-color);
+  background: transparent;
 }
 
 .nav-item:hover {
@@ -85,6 +85,8 @@ header {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-image: linear-gradient(to bottom, var(--hero-color), 80%,var(--secondary-color)), url("1235.jpg");
+  background-size: cover;
 }
 
 .hero .heading-text {
