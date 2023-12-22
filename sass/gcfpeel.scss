@@ -70,6 +70,10 @@ header nav .subtitle-text {
 }
 
 header {
+  background-color: var(--header-color);
+}
+
+.header-wrapper header {
   background: transparent;
 }
 
