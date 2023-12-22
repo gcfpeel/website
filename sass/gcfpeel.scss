@@ -85,8 +85,25 @@ header {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-image: linear-gradient(to bottom, var(--hero-color), 80%,var(--secondary-color)), url("1235.jpg");
   background-size: cover;
+  background-position: left 33% top 45%;
+  position: relative;
+  background-image: url("1235.jpg");
+  background-attachment: fixed;
+}
+
+.header-wrapper > * {
+  z-index: 1;
+}
+
+.header-wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: linear-gradient(to bottom, var(--hero-color), 80%,var(--secondary-color));
 }
 
 .hero .heading-text {
