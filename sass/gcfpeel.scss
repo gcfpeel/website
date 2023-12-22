@@ -54,6 +54,8 @@ footer {
 
 .hero {
   background: linear-gradient(to bottom, var(--header-color), 80%,var(--secondary-color));
+  height: unset;
+  padding: 0px 40px 30px;
 }
 
 .hero-logo {
@@ -77,4 +79,14 @@ header {
 
 .logo img {
   filter: drop-shadow(0 0 5px #FFFFFF80);
+}
+
+.header-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.hero .heading-text {
+  margin-top: 0;
 }
