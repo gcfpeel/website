@@ -9,40 +9,57 @@
 {% block nav %}
 {% endblock nav %}
 
-{% block hero %}
-<section class="text-center">
-<h1 class="heading-text" style="font-size: 75px">
-<img class="hero-logo" src="{{ get_url(path="logo/gcfpeel_logo-whitebord.svg") }}" alt="GCF Peel" /><br>
-	Know Christ and Make Him Known
-</h1>
-<a>
-<input type="image" src="clapper.png" />
-<input type="image" src="clapper.png" />
-<input type="image" src="clapper.png" />
-</a>
-</section>
-<img class="hero-image" style="width: 100%" src="{{ get_url(path="1235.jpg") }}">
+{% block header %}
 
-<div class="explore-more text"
-	onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
-	Explore More ⇩
+<header class="pos-absolute" style="background-color: transparent">
+  {{ macros::render_header() }}
+</header>
+
+<div class="hero">
+  {% block hero %}
+  <section class="text-center">
+    <h1 class="heading-text" style="font-size: 75px">
+      <img class="hero-logo" src="{{ get_url(path="logo/gcfpeel_logo-whitebord.svg") }}" alt="GCF Peel" /><br>
+      Know Christ and Make Him Known
+    </h1>
+    <a>
+      <input type="image" src="clapper.png" />
+      <input type="image" src="clapper.png" />
+      <input type="image" src="clapper.png" />
+    </a>
+  </section>
+  <img class="hero-image" style="width: 100%" src="{{ get_url(path="1235.jpg") }}">
+
+  <div class="explore-more text"
+       onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
+    Explore More ⇩
+  </div>
+  <style>
+    .hero section {
+      padding: 0 5rem;
+    }
+
+    header .logo img {
+      visibility: hidden;
+    }
+
+    @media screen and (max-width: 768px) {
+      .hero section {
+        padding: 0 2rem;
+      }
+
+      .hero-image {
+        display: none;
+      }
+    }
+  </style>
+  {% endblock hero %}
+
 </div>
-<style>
-.hero section {
-	padding: 0 5rem;
-}
 
-@media screen and (max-width: 768px) {
-	.hero section {
-		padding: 0 2rem;
-	}
+{% endblock header %}
 
-	.hero-image {
-		display: none
-	}
-}
-</style>
-{% endblock hero %}
+
 
 {% block content %}
 	{{ section.content | safe }}
