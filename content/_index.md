@@ -17,7 +17,7 @@ We meet up every **Sunday, 10AM** at the **Meadowvale Village Hall** ([6970 Seco
 
 If you aren't able to make it in person, you can join us on [Zoom](https://zoom.us/j/6608369331):
 
-> #### Join Zoom Meeting
+> ### Join Zoom Meeting
 >
 > <https://zoom.us/j/6608369331>
 >
