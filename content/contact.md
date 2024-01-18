@@ -6,21 +6,12 @@ title="Contact Us"
 		float: left;
 	}
 	.form-container {
-	max-width: 100%;
+		max-width: 100%;
 	}
-	.form-container input {
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 30px;
-	}
-	.form-container textarea {
-	position: relative;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100px;
-	}
+	.contact-form-fieldset {
+		display: flex;
+		flex-direction: column;
+    }
 </style>
 
 **Possibly fill in more info**
@@ -40,7 +31,7 @@ Interac e-Transfer to `donation@gcfpeel.ca`
 <div class="contact-form">
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xaygogoy" method="POST" class="form-container">
-  <fieldset id="fs-frm-inputs">
+  <fieldset id="fs-frm-inputs" class="contact-form-fieldset">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
