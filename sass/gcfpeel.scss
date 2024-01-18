@@ -113,3 +113,13 @@ header {
 .hero .heading-text {
   margin-top: 0;
 }
+
+.content blockquote {
+  padding: 20px;
+  & > :first-child {
+    margin-top: 0;
+  }
+  & > :last-child {
+    margin-bottom: 0;
+  }
+}

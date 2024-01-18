@@ -49,7 +49,7 @@ Interac e-Transfer to `donation@gcfpeel.ca`
     <textarea rows="5" name="message" id="message" placeholder="Give Us A Message!" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Submit" style="margin-top:0.75em;">
 </form>
 
 </div>
