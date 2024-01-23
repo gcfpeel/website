@@ -22,6 +22,9 @@ highlight_code = false
 juice_logo_name = "GCF Peel"
 juice_logo_path = "logo/gcfpeel_logo-whitebord.svg"
 juice_extra_menu = [
+	{ title = "About Us", link = "@/about-us.md"},
+	{ title = "Sermons", link = "@/sermons.md"},
+	{ title = "Contact Us", link = "@/contact.md"}
 ]
 juice_exclude_menu = [
     "exclude_from_nav"
