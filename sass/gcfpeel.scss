@@ -123,3 +123,21 @@ header {
     margin-bottom: 0;
   }
 }
+
+.logo {
+  font-family: var(--header-font-family);
+  font-weight: bold;
+}
+
+.hero .explore-more {
+  background: var(--hero-color);
+  padding: .5ex 1ex;
+  border-radius: 1em;
+  color: var(--secondary-color);
+  text-shadow: var(--hero-color) 0 0 .5ex;
+  box-shadow: var(--hero-color) 0 0 1em;
+}
+
+.hero .explore-more:hover {
+  filter: brightness(1.2);
+}
