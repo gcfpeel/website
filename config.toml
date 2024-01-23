@@ -22,7 +22,6 @@ highlight_code = false
 juice_logo_name = "GCF Peel"
 juice_logo_path = "logo/gcfpeel_logo-whitebord.svg"
 juice_extra_menu = [
-	{ title = "Sermons", link ="https://www.youtube.com/channel/UCPj5Bc-yhe5TD7W_EPXZ6TA"}
 ]
 juice_exclude_menu = [
     "exclude_from_nav"
