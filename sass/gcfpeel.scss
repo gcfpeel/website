@@ -23,14 +23,6 @@ h3 {
   color: var(--primary-text-color);
 }
 
-@media screen and (max-width: 768px) {
-	.hero section {
-		padding: 0 2rem;
-	}
-	.hero-image {
-		display: none;
-	}
-}
 div.content {
 	display: inline-block;
 	max-width: 1080px;
@@ -140,4 +132,30 @@ header {
 
 .hero .explore-more:hover {
   filter: brightness(1.2);
+}
+
+.hero h1.heading-text {
+  font-size: 70px;
+  margin-bottom: 0;
+  
+}
+.hero h2.heading-text {
+  font-size: 40px;
+  padding-bottom: 2em;
+  border-left: none;
+}
+
+@media screen and (max-width: 768px) {
+	.hero section {
+		padding: 0 2rem;
+	}
+	.hero-image {
+		display: none;
+	}
+	.hero h1.heading-text {
+      font-size: 50px;
+    }
+	.hero h2.heading-text {
+      font-size: 30px;
+    }
 }
