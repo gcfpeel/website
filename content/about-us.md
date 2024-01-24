@@ -1,8 +1,7 @@
 +++
 title="About Us"
 +++
-# Newcomers
-## Not sure where to start?
+# About Us
 GCF Peel serves the community of the Peel region in the Greater Toronto Area (GTA) specifically in Mississauga, Brampton and Caledon area through worship, children and youth programs, and a network of growth groups meeting in local homes.
 
 Whether you are young or old, from a different culture, a lifelong believer or just exploring the Christian faith, we warmly invite you to come visit us.
@@ -87,6 +86,20 @@ The proposed 10 key attributes of the GCF Peel ethos are as follows:
 ## Affiliation
 
 GCF Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40].
+
+
+# Pastors
+**Fill in more info**
+(Full name,  contact info, better photo)
+
+## Jonathan Bernardo
+
+{{ resize_image(path="1637799745949.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
+
+\*Insert bio here\*
+
+<a href="tel:+1-647-869-0820">+1 647-869-0820</a>
+
 
 [1]:https://goo.gl/maps/NGx7597koVXXTnVE6
 [2]:https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV

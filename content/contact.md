@@ -14,20 +14,9 @@ title="Contact Us"
     }
 </style>
 
-**Possibly fill in more info**
-(Full name,  contact info, better photo)
-
-## Pastor
-{{ resize_image(path="1637799745949.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
-
-**Jonathan Bernardo**
-
-<a href="tel:+1-647-869-0820">+1 647-869-0820</a>
-
-## Offerings
-Interac e-Transfer to `donation@gcfpeel.ca`
-
 ## Contact us
+\*Insert Contact Us Spiel here\*
+
 <div class="contact-form">
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xaygogoy" method="POST" class="form-container">
@@ -44,3 +33,6 @@ Interac e-Transfer to `donation@gcfpeel.ca`
 </form>
 
 </div>
+
+## Offerings
+Interac e-Transfer to `donation@gcfpeel.ca`
