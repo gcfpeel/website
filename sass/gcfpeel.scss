@@ -103,7 +103,8 @@ header {
   background-image: linear-gradient(to bottom, #FFFFFF00, 80%,var(--secondary-color));
 }
 
-.rgb .header-wrapper::before {
+.rgb .header-wrapper::before,
+.rgb header {
   animation: colorRotate 12s linear 0s infinite;
 }
 
