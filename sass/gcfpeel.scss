@@ -74,7 +74,7 @@ header {
 }
 
 .logo img {
-  filter: drop-shadow(0 0 5px #FFFFFF80);
+  filter: drop-shadow(0 0 5px #FFFFFF55);
 }
 
 .header-wrapper {
@@ -122,11 +122,10 @@ header {
 }
 
 .hero .explore-more {
-  background: var(--hero-color);
+  background: var(--explore-more-color);
   padding: .5ex 1ex;
   border-radius: 1em;
   color: var(--secondary-color);
-  text-shadow: var(--hero-color) 0 0 .5ex;
   box-shadow: var(--hero-color) 0 0 1em;
 }
 
