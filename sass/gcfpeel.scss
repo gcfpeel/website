@@ -99,7 +99,30 @@ header {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: linear-gradient(to bottom, var(--hero-color), 80%,var(--secondary-color));
+  background-color: var(--hero-color);
+  background-image: linear-gradient(to bottom, #FFFFFF00, 80%,var(--secondary-color));
+}
+
+.rgb .header-wrapper::before {
+  animation: colorRotate 12s linear 0s infinite;
+}
+
+@keyframes colorRotate {
+  from {
+    background-color: #6666ff99;
+  }
+  10% {
+    background-color: #0099ff99;
+  }
+  50% {
+    background-color: #00ff0099;
+  }
+  75% {
+    background-color: #ff339999;
+  }
+  100% {
+    background-color: #6666ff99;
+  }
 }
 
 .hero .heading-text {
