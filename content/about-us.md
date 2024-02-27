@@ -89,14 +89,13 @@ GCF Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40].
 
 
 # Pastors
-**Fill in more info**
-(Full name,  contact info, better photo)
+<!-- **Fill in more info** (Full name,  contact info, better photo) -->
 
 ## Jonathan Bernardo
 
 {{ resize_image(path="1637799745949.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
 
-\*Insert bio here\*
+<!-- <\*Insert bio here\* -->
 
 <a href="tel:+1-647-869-0820">+1 647-869-0820</a>
 

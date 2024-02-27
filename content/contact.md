@@ -15,7 +15,8 @@ title="Contact Us"
 </style>
 
 ## Contact us
-\*Insert Contact Us Spiel here\*
+<!-- \*Insert Contact Us Spiel here\* -->
+If you would like to get in touch with us, send us a message through the form below. We'd love to hear from you!
 
 <div class="contact-form">
 
@@ -34,5 +35,6 @@ title="Contact Us"
 
 </div>
 
-## Offerings
-Interac e-Transfer to `donation@gcfpeel.ca`
+## Giving, Tithes and Offerings
+
+We appreciate your generosity! Please send your donations through Interac e-Transfer to `donation@gcfpeel`.
