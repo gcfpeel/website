@@ -15,7 +15,8 @@ title="Contact Us"
 </style>
 
 ## Contact us
-\*Insert Contact Us Spiel here\*
+<!-- \*Insert Contact Us Spiel here\* -->
+If you would like to get in touch with us, send us a message through the form below. We'd love to hear from you!
 
 <div class="contact-form">
 
