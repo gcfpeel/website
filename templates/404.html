@@ -1,0 +1,44 @@
+{% import "_macros.html" as macros %}
+{% extends "index.html" %}
+
+{% block title %}404 Not Found | {{ super() }} {% endblock title %}
+
+{% block header %}
+<header class="box-shadow">
+    {{ macros::render_header() }}
+</header>
+{% endblock header %}
+
+{% block content %}
+<div class="heading-text">404 Not Found</div>
+<div class="content-body">
+    <p>
+        The page you are looking for was not found. Maybe check out our <a href="{{ config.base_url }}">home page</a> instead!
+    </p>
+    <p>
+        If you had followed a bookmark here, please update your bookmarks.
+        Many pages are no longer around after the site refresh.
+    </p>
+</div>
+
+<style>
+    main > * {
+        flex: 1 0 auto;
+    }
+    div.content {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .content-body {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    @media screen and (max-width: 768px) {
+        .content-body {
+            width: unset;
+        }
+    }
+</style>
+{% endblock content %}
