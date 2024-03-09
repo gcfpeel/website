@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://gcfpeel.github.io"
+base_url = "https://www.gcfpeel.ca"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -29,4 +29,3 @@ juice_extra_menu = [
 juice_exclude_menu = [
     "exclude_from_nav"
 ]
-repository_url = "https://gcfpeel.github.io/worship/"
