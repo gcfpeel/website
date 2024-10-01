@@ -37,4 +37,4 @@ If you would like to get in touch with us, send us a message through the form be
 
 ## Giving, Tithes and Offerings
 
-We appreciate your generosity! Please send your donations through Interac e-Transfer to `donation@gcfpeel`.
+We appreciate your generosity! Please send your donations through Interac e-Transfer to `donation@gcfpeel.ca`.
