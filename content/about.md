@@ -93,11 +93,30 @@ GCF Peel is a member of the [Canadian Baptists of Ontario & Quebec (CBOQ)][40].
 
 ## Jonathan Bernardo
 
-{{ resize_image(path="1637799745949.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
+{{ resize_image(path="JonPhoto.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
 
 <!-- <\*Insert bio here\* -->
+Currently serving as the resident bi-vocational pastor at GCF Peel, Jonathan prepared himself in pastoral ministry by acquiring his Master's degree in Ministry in Pastoral Leadership at Andersonville Theological Seminary. His full-time work is in the public sector serving in the provincial government as a business process improvement specialist. In the area of ministry, his ultimate passion is in the biblical preaching and teaching of God's word, discipling others, coaching, and counselling. He is joyfully married with three children.  As a family, they love to travel, play mystery games, watch movies and shows, and enjoy fellowship with others around food especially!
 
 <a href="tel:+1-647-869-0820">+1 647-869-0820</a>
+
+## Narry Santos
+
+{{ resize_image(path="NarryPhoto.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
+
+<!-- <\*Insert bio here\* -->
+Dr. Santos, who holds doctorates in New Testament and Philippine Studies, wrote several books, including Slave of All: The Paradox of Authority and Servanthood in the Gospel of Mark and Turning our Shame into Honor: Transformation of the Filipino ‘Hiya’ in Light of Mark’s Gospel.  He serves as part-time Senior Pastor of Greenhills Christian Fellowship (GCF) Peel and GCF York, as church-based Church Planting Catalyst with the Canadian National Baptist Convention, and as Vice President of the Evangelical Missiological Society Canada. He recently planted Saddleback South Manila and was its pastor for three years. Before Saddleback Church, he ministered at GCF in different pastoral responsibilities for 20 years, including helping plant six churches in Canada and four in the Philippines.
+
+<a href="tel:+1-416-226-6620">+1 416-226-6620</a>
+
+## James Caba
+
+{{ resize_image(path="JamesPhoto.jpg", width=450, height=450, op="fit", format="auto", quality=90) }}
+
+<!-- <\*Insert bio here\* -->
+James has been a member of GCF Peel for most of his life and has been involved with different ministries through the years. He started preaching in 2019 and was elected as a deacon shortly after. By God’s providence, James was hired as a pastor, overseeing the youth and young adults’ ministry. He is currently pursuing his Master of Divinity at Wycliffe College with a specialization in Reformed Studies and Pastoral Ministry. His hope and prayer are to cultivate a God-glorifying, Christ-centred, Spirit-led, gospel-rich faith in the Church for all generations by teaching the whole counsel of God from the Bible. James is happily married to his best friend Brenda and they love to play board games and puzzles, watch movies, and go to the gym.
+
+<a href="tel:+1-647-525-0403">+1 647-525-0403</a>
 
 
 [1]:https://goo.gl/maps/NGx7597koVXXTnVE6
