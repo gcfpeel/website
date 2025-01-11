@@ -116,8 +116,6 @@ Dr. Santos, who holds doctorates in New Testament and Philippine Studies, wrote 
 <!-- <\*Insert bio here\* -->
 James has been a member of GCF Peel for most of his life and has been involved with different ministries through the years. He started preaching in 2019 and was elected as a deacon shortly after. By God’s providence, James was hired as a pastor, overseeing the youth and young adults’ ministry. He is currently pursuing his Master of Divinity at Wycliffe College with a specialization in Reformed Studies and Pastoral Ministry. His hope and prayer are to cultivate a God-glorifying, Christ-centred, Spirit-led, gospel-rich faith in the Church for all generations by teaching the whole counsel of God from the Bible. James is happily married to his best friend Brenda and they love to play board games and puzzles, watch movies, and go to the gym.
 
-<a href="tel:+1-647-525-0403">+1 647-525-0403</a>
-
 [1]:https://goo.gl/maps/NGx7597koVXXTnVE6
 [2]:https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV
 [3]:https://www.biblegateway.com/passage/?search=2+Peter+1%3A+20-21&version=NIV
