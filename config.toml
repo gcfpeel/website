@@ -24,7 +24,7 @@ juice_logo_path = "logo/gcfpeel_logo-whitebord.svg"
 juice_extra_menu = [
 	{ title = "About Us", link = "@/about.md"},
 	{ title = "Sermons", link = "@/sermons.md"},
- 	#{ title = "Ministries", link = "@/ministry.md"},
+ 	{ title = "Ministries", link = "@/ministry.md"},
 	{ title = "Contact Us", link = "@/contact.md"}
 ]
 juice_exclude_menu = [
