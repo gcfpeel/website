@@ -5,7 +5,7 @@ title="About Us"
 GCF Peel serves the community of the Peel region in the Greater Toronto Area (GTA) specifically in Mississauga, Brampton and Caledon area through worship, children and youth programs, and a network of growth groups meeting in local homes.
 
 Whether you are young or old, from a different culture, a lifelong believer or just exploring the Christian faith, we warmly invite you to come visit us.
-If you are seeking to get closer to God, we'd love you to join us this Sunday, 10:00 AM ET at the Meadowvale Village Hall in Mississauga ([6970 Second Line W, Mississauga, ON L5W 1A1][1]).
+If you are seeking to get closer to God, we'd love you to join us this Sunday, 10:30 AM ET at the Meadowvale Village Hall in Mississauga ([6970 Second Line W, Mississauga, ON L5W 1A1][1]).
 
 Meanwhile, feel free to browse our website, and discover who we are and how you can fit in to our faith community.
 
