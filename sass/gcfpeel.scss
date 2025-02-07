@@ -183,6 +183,18 @@ header {
     }
 }
 
-td {
-  padding: 1ex;
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 1ex 2ex;
+}
+
+thead th {
+  border-bottom: 2px solid var(--primary-text-color);
+}
+
+tr + tr td {
+  border-top: 1px solid var(--primary-text-color);
 }
