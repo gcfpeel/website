@@ -10,4 +10,4 @@ title="Sermons"
 ## Archive
 Past sermons can be found on our [YouTube channel][1].
 
-[1]: https://www.youtube.com/@greenhillschristianfellows294
+[1]: https://www.youtube.com/@gcfpeel
